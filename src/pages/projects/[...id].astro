@@ -34,27 +34,39 @@ const { Content, headings } = await render(project);
           <FormattedDate date={project.data.date} />
         </div>
         &bull;
-        {project.body && (
-          <div class="font-base text-sm">
-            {readingTime(project.body)}
-          </div>
-        )}     
+        {
+          project.body && (
+            <div class="font-base text-sm">{readingTime(project.body)}</div>
+          )
+        }
       </div>
       <h1 class="text-3xl font-semibold text-black dark:text-white">
         {project.data.title}
       </h1>
       {
-        (project.data.demoURL || project.data.repoURL) && (
+        (project.data.demoURL ||
+          project.data.repoURL ||
+          project.data.projectUrl) && (
           <nav class="flex gap-1">
             {project.data.demoURL && (
               <Link href={project.data.demoURL} external>
                 demo
               </Link>
             )}
-            {project.data.demoURL && project.data.repoURL && <span>/</span>}
+            {project.data.demoURL &&
+              project.data.repoURL &&
+              project.data.projectUrl && <span>/</span>}
             {project.data.repoURL && (
               <Link href={project.data.repoURL} external>
                 repo
+              </Link>
+            )}
+            {project.data.demoURL &&
+              project.data.repoURL &&
+              project.data.projectUrl && <span>/</span>}
+            {project.data.projectUrl && (
+              <Link href={project.data.projectUrl} external>
+                project
               </Link>
             )}
           </nav>
