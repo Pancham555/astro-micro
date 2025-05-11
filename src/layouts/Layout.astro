@@ -5,7 +5,7 @@ import Footer from "@components/Footer.astro";
 import Pagefind from "@components/PageFind.astro";
 import { SITE } from "@consts";
 import Analytics from "@vercel/analytics/astro";
-
+import  SpeedInsights  from "@vercel/speed-insights/astro"
 type Props = {
   title: string;
   description: string;
@@ -23,6 +23,7 @@ const { title, description } = Astro.props;
       content="ofJzDPcVhlCZeQySz-1MNmLityAW67o9s-QYI894Q58"
     />
     <Analytics />
+    <SpeedInsights/>
   </head>
   <body>
     <Header />
