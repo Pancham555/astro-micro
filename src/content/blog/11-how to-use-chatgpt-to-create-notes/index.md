@@ -34,6 +34,20 @@ And BTW, if you're a lazy ass and didn't read all this, then take this prompt an
 
 ## Prompts 🤖
 
-1. _Go through previous years question (atleast 5-7 years back) of [Your university] of [Your subject] and find me questions and their answers (not points but detailed answers) in accordance with the marks alloted it, of these topics "Your topics"_
-2. _Now write all questions, alongwith the marks alloted to it and the year in which it was asked with their answers written below_ (do required modifications whenever necessary)
-3. _Create me a pdf file of all these things you have written_
+1. Prompt 1
+```sh
+Go through previous years question (atleast 5-7 years back) of [Your university] of [Your subject] and find me questions and their answers (not points but detailed answers) in accordance with the marks alloted it, of these topics "Your topics"_
+ ```
+
+2. Prompt 2
+
+(do required modifications whenever necessary)
+
+```sh
+Now write all questions, alongwith the marks alloted to it and the year in which it was asked with their answers written below
+```
+
+3. Prompt 3
+```sh 
+Create me a pdf file of all these things you have written
+```
