@@ -8,6 +8,9 @@ tags:
   - gemini
 ---
 
+![chatgpt and gemini](https://media.licdn.com/dms/image/v2/D5612AQHiPrDEruXeqQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1713258302840?e=1752710400&v=beta&t=IomCQ5mQ-HOITablYpAhvMUVPatm-Gh4MVxF1QodHgg)
+
+
 ## Introduction
 We all have used chatgpt to search for things, find some basic stuff, some simple talking.. but have you ever used it to it's full potential? In this blog, I am going to show you how to prepare notes using chatgpt / gemini to create notes...
 
