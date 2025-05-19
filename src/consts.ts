@@ -20,7 +20,7 @@ export const BLOG: Metadata = {
 };
 
 export const WORK: Metadata = {
-  TITLE: "Blog",
+  TITLE: "Work",
     DESCRIPTION: "Where I have worked and what I have done.",
 };
 
