@@ -6,6 +6,7 @@ tags:
   - tutorial
   - chatgpt
   - gemini
+  - ai
 ---
 
 ![chatgpt and gemini](https://media.licdn.com/dms/image/v2/D5612AQHiPrDEruXeqQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1713258302840?e=1752710400&v=beta&t=IomCQ5mQ-HOITablYpAhvMUVPatm-Gh4MVxF1QodHgg)
