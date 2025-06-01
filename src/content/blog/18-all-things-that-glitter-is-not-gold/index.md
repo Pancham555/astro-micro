@@ -4,7 +4,7 @@ description: "How fantasizing about going to foreign countries is always the rig
 date: "2025-06-01"
 tags:
   - jobs
-  - brain drain
+  - brain-drain
 ---
 
 ## Introduction

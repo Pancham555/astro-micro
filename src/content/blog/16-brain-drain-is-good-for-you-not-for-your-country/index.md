@@ -3,7 +3,7 @@ title: "Brain drain is good for you, not for your country!"
 description: "How moving abroad can open new opportunites for you but destroys a country's talent"
 date: "2025-06-01"
 tags:
-  - brain drain
+  - brain-drain
   - jobs
 ---
 

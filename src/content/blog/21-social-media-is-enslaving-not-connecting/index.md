@@ -3,7 +3,7 @@ title: "Social media is enslaving, not connecting!"
 description: "How digital platforms are fueling mental health crises, cyberbullying, and FOMO among India’s youth"
 date: "2025-06-02"
 tags:
-  - social media
+  - social-media
 ---
 
 
