@@ -7,7 +7,7 @@ tags:
     - typescript
 ---
 
-![Leetcode](/static/images/leetcode.webp)
+![Leetcode](/leetcode.webp)
 
 ## Overview
 
