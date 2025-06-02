@@ -4,6 +4,7 @@ description: "Understanding the flaws of this massive behemoth of financial tool
 date: "2025-05-21"
 tags:
   - stock-market
+  - currency
   - opinion
 ---
 
